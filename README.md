@@ -1,4 +1,4 @@
-# ShockingRotom
+# ShockingRotom May 2021
 ## PythonUltimateTicTacToe
 ###### Ultimate Tic Tac Toe written in python
 RULES
