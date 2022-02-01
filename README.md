@@ -1,4 +1,4 @@
-# ShockingRotom May 2021
+# Lucas Weber May 2021
 ## PythonUltimateTicTacToe
 ###### Ultimate Tic Tac Toe written in python
 RULES
